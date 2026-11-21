@@ -1,0 +1,3 @@
+model,observations,exceptions,expected,kupiec_LR,p_value,verdict
+hist_VaR,3982,53,39.8,3.991911431790186,0.0457191716405938,reject
+param_VaR,3982,89,39.8,45.415642821908364,1.5935697206259647e-11,reject
